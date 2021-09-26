@@ -13,7 +13,7 @@
   "layer":[
     {
       "transform": [
-        {"calculate": "'Missing data in' + datum.properties.NAME", "as": "note"}
+        {"calculate": "'Data is not available in ' + datum.properties.NAME", "as": "note"}
       ],
       "mark": {"type": "geoshape", "fill": "lightgray", "stroke": "white"},
       "encoding": {

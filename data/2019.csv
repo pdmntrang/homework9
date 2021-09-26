@@ -26,9 +26,9 @@ Europe,Estonia,2019,Both sexes,11.96
 Africa,Burundi,2019,Both sexes,12.12
 Europe,Moldova,2019,Both sexes,12.17
 Western Pacific,Japan,2019,Both sexes,12.24
-Africa,Guinea,2019,Both sexes,12.33
+Africa,Eq. Guinea,2019,Both sexes,12.33
 Europe,Sweden,2019,Both sexes,12.37
-Africa,Guinea-Bissau,2019,Both sexes,12.38
+Africa,Eq. Guinea-Bissau,2019,Both sexes,12.38
 Africa,Democratic Republic of the Dem. Rep. Congo,2019,Both sexes,12.41
 Africa,Angola,2019,Both sexes,12.55
 Africa,Benin,2019,Both sexes,12.71
@@ -37,7 +37,7 @@ South-East Asia,India,2019,Both sexes,12.91
 Africa,Gabon,2019,Both sexes,13.11
 Africa,Chad,2019,Both sexes,13.22
 Europe,Finland,2019,Both sexes,13.43
-Africa,Equatorial Guinea,2019,Both sexes,13.51
+Africa,Equatorial Eq. Guinea,2019,Both sexes,13.51
 Africa,Namibia,2019,Both sexes,13.51
 Europe,Belgium,2019,Both sexes,13.93
 Europe,Slovenia,2019,Both sexes,13.97
@@ -45,7 +45,7 @@ Africa,Burkina Faso,2019,Both sexes,14.38
 Africa,Zambia,2019,Both sexes,14.43
 Americas,United States of America,2019,Both sexes,14.51
 Western Pacific,Samoa,2019,Both sexes,14.6
-Eastern Mediterranean,Somalia,2019,Both sexes,14.66
+Eastern Mediterranean,Somaliland,2019,Both sexes,14.66
 Africa,Togo,2019,Both sexes,14.81
 Africa,Cabo Verde,2019,Both sexes,15.23
 Africa,Côte d'Ivoire,2019,Both sexes,15.66
@@ -81,7 +81,7 @@ Africa,Botswana,2019,Both sexes,20.22
 Western Pacific,Vanuatu,2019,Both sexes,20.96
 Western Pacific,Republic of Korea,2019,Both sexes,21.16
 Europe,Russia,2019,Both sexes,21.6
-Africa,Central African Rep,2019,Both sexes,22.96
+Africa,Central African Rep.,2019,Both sexes,22.96
 Africa,Mozambique,2019,Both sexes,23.19
 Africa,South Africa,2019,Both sexes,23.49
 Africa,Zimbabwe,2019,Both sexes,23.63
@@ -91,7 +91,7 @@ Eastern Mediterranean,Tunisia,2019,Both sexes,3.18
 Europe,Cyprus,2019,Both sexes,3.18
 Americas,Bahamas,2019,Both sexes,3.37
 Eastern Mediterranean,Egypt,2019,Both sexes,3.41
-Western Pacific,Papua New Guinea,2019,Both sexes,3.57
+Western Pacific,Papua New Eq. Guinea,2019,Both sexes,3.57
 Europe,Greece,2019,Both sexes,3.62
 Europe,Albania,2019,Both sexes,3.72
 Americas,Colombia,2019,Both sexes,3.74
@@ -110,7 +110,7 @@ Eastern Mediterranean,Sudan,2019,Both sexes,4.76
 Africa,Eswatini,2019,Both sexes,40.46
 Americas,Guyana,2019,Both sexes,40.85
 South-East Asia,Bhutan,2019,Both sexes,5.07
-Americas,Dominican Republic,2019,Both sexes,5.11
+Americas,Dominican Rep.,2019,Both sexes,5.11
 Eastern Mediterranean,Iran,2019,Both sexes,5.13
 Europe,Israel,2019,Both sexes,5.15
 Eastern Mediterranean,United Arab Emirates,2019,Both sexes,5.24
@@ -155,9 +155,9 @@ South-East Asia,Thailand,2019,Both sexes,7.95
 Africa,Mali,2019,Both sexes,7.96
 Americas,Chile,2019,Both sexes,8.04
 Americas,Argentina,2019,Both sexes,8.14
-Africa,United Republic of Tanzania,2019,Both sexes,8.15
-South-East Asia,Democratic People's Republic of Korea,2019,Both sexes,8.2
-Europe,Bosnia and Herz,2019,Both sexes,8.25
+Africa,Tanzania,2019,Both sexes,8.15
+South-East Asia,South Korea,2019,Both sexes,8.2
+Europe,Bosnia and Herz.,2019,Both sexes,8.25
 Europe,Germany,2019,Both sexes,8.27
 Americas,Trinidad and Tobago,2019,Both sexes,8.28
 Europe,Uzbekistan,2019,Both sexes,8.28
